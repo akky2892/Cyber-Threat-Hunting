@@ -16,3 +16,7 @@ Threat Hunting - Hunt It Down!
 
 
 Kindly watch this in raw format as * sign is not visible in the search queries mentioned above.
+
+
+Refer - https://akkysanj.wordpress.com/2019/03/09/threat-hunting-hunt-it-down/
+        https://twitter.com/Akky2892
